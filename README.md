@@ -1,9 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
 **NR2/UFPR PPG Datasets**
 
 **Backgound:
