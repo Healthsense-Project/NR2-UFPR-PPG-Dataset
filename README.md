@@ -15,7 +15,7 @@ Sensor employed in captures - [Gravity: Heart Rate Monitor](https://wiki.dfrobot
 
 Sensor technical details are available at:[Gravity: Heart Rate Monitor - Datasheet](https://github.com/DFRobot/DFRobot_Heartrate/raw/master/Hardware/SON1303%20Datasheet.pdf)
 
-Sensor Schematic is available at:[Gravity: Heart Rate Monitor - Schematic](file:///home/nakayama/Documents/SEN0203%20Heart%20Rate%20Sensor%20Schematic.pdf)
+Sensor Schematic is available at:[Gravity: Heart Rate Monitor - Schematic](https://github.com/DFRobot/DFRobot_Heartrate/raw/master/Hardware/SEN0203%20Heart%20Rate%20Sensor%20Schematic.pdf)
 
 MCU employed in captures is - [Arduino Uno](https://www.arduino.cc/en/Guide/ArduinoUno "Arduino Uno")
 
