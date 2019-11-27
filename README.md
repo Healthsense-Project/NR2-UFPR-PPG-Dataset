@@ -16,3 +16,5 @@ MCU employed in captures is - [Arduino Uno](https://www.arduino.cc/en/Guide/Ardu
 **Datasets encompass data from 30 healthy individuals from 23 to 53 years old and with no record of cardiac issues. Each individual had their PPG signal collected and recorded in two positions: standing and sitting. The NR2/UFPR\#1 dataset contains data from the seated individuals, whereas the NR2/UFPR\#2 dataset contains data from standing individuals. User registrations were made at different time as would occur in a real situation. Datasets hold three-minute sample per individual.**
 
 Additional information is available in the Readme files in each folder.
+
+![](https://github.com/Healthsense-Project/NR2-UFPR-PPG-Dataset/blob/master/figures/logo.png?raw=true)
