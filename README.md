@@ -1,9 +1,8 @@
 **NR2/UFPR PPG Datasets**
 
-### **Suggested Citation**
-##### If you use this dataset in a publication, please credit the author(s) using the following citation:
+**Suggested Citation**
+If you use this dataset in a publication, please credit the author(s) using the following citation:
 ###### Fernando Nakayama, Paulo Lenz, Stella Banou, Michele Nogueira, Aldri Santos, and Kaushik R. Chowdhury, “A Continuous User Authentication System Based on Galvanic Coupling Communication for s-Health,” Wireless Communications and Mobile Computing, vol. 2019, Article ID 9361017, 11 pages, 2019.
-
 
 **Backgound:
 This PPG (Photoplethysmogram) dataset was build with an experimental environment within the context of the NSF/RNP U.S.-Brazil HealthSense project. https://www.healthsenseproject.net/**
